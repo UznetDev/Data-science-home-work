@@ -10,13 +10,6 @@ Ushbu repository quyidagi maqsadlarga ega:
 - Statistik tahlillar va ma'lumotlar vizualizatsiyasi bo'yicha amaliy tajribaga ega bo'lish
 - Ma'lumotlarni qayta ishlash va modellash bo'yicha ko'nikmalarni rivojlantirish
 
-## Tarkibi
-
-Repository quyidagi bo'limlardan iborat:
-1. `data/` - Ma'lumotlar fayllari joylashgan papka. Bu yerda turli ma'lumotlar to'plamlari saqlanadi.
-2. `notebooks/` - Jupyter notebook fayllari. Bu yerda data science vazifalarini bajarish uchun ishlatilgan kodlar va izohlar joylashgan.
-3. `scripts/` - Turli skriptlar va yordamchi dasturlar.
-4. `results/` - Tahlil natijalari va vizualizatsiyalar saqlanadigan papka.
 
 ## Ishlatilgan texnologiyalar
 
@@ -67,5 +60,6 @@ Ushbu loyiha MIT litsenziyasi ostida tarqatiladi. Batafsil ma'lumot uchun [LICEN
 Agar sizda biron bir savol yoki taklif bo'lsa, iltimos quyidagi manzilga murojaat qiling:
 - Email: uznetdev@example.com
 - GitHub Issues: [Issues bo'limi](https://github.com/UznetDev/Data-science-home-work/issues)
+- Telegram: [UZNet_Dev](https://t.me/UZNet_Dev)
 
 Loyihaga qiziqishingiz uchun rahmat!
