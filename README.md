@@ -70,4 +70,4 @@ Agar sizda biron bir savol yoki taklif bo'lsa, iltimos quyidagi manzilga murojaa
 - Email: uznetdev@example.com
 - GitHub Issues: [Issues bo'limi](https://github.com/UznetDev/Data-science-home-work/issues)
 
-##Loyihaga qiziqishingiz uchun rahmat!
+Loyihaga qiziqishingiz uchun rahmat!
