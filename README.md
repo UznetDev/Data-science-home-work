@@ -62,7 +62,8 @@ Agar loyihaga hissa qo'shmoqchi bo'lsangiz, iltimos quyidagi qadamlarni bajaring
 
 ## Litsenziya
 
-Ushbu loyiha MIT litsenziyasi ostida tarqatiladi. Batafsil ma'lumot uchun `LICENSE` faylini ko'rib chiqing.
+Ushbu loyiha MIT litsenziyasi ostida tarqatiladi. Batafsil ma'lumot uchun [LICENSE](LICENSE) faylini ko'rib chiqing.
+
 
 ## Aloqa
 
