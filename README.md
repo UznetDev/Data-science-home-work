@@ -1,6 +1,3 @@
-Albatta! Quyidagi README.md faylini ushbu GitHub repositoriy uchun yaratib berdim:
-
-
 # Data Science Homework
 
 Ushbu repository O'znetDev tomonidan yaratilgan data science uy vazifalarini o'z ichiga oladi. Bu yerda turli data science muammolarini hal qilish bo'yicha mashqlar, kodlar va natijalar jamlangan.
