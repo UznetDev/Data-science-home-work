@@ -32,8 +32,11 @@ Ushbu loyihada quyidagi texnologiyalar va kutubxonalardan foydalanilgan:
    ```bash
    cd Data-science-home-work
    python -m venv venv
+   ```bash
    source venv/bin/activate  # Linux/Mac
+   ```bash
    .\venv\Scripts\activate  # Windows
+   ```bash
    pip install -r requirements.txt
    ```
 3. Jupyter Notebook'ni ishga tushirish:
