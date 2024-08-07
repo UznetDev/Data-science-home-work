@@ -1,6 +1,6 @@
 # Data Science Homework
 
-Ushbu repository O'znetDev tomonidan yaratilgan data science uy vazifalarini o'z ichiga oladi. Bu yerda turli data science muammolarini hal qilish bo'yicha mashqlar, kodlar va natijalar jamlangan.
+Ushbu repository UznetDev tomonidan yaratilgan data science uy vazifalarini o'z ichiga oladi. Bu yerda turli data science muammolarini hal qilish bo'yicha mashqlar, kodlar va natijalar jamlangan.
 
 ## Loyihaning maqsadi
 
