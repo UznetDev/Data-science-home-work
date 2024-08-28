@@ -1,18 +1,24 @@
 Subquery Exercises
 Simple Subquery in SELECT
-Write a query to list all countries along with their continent and the earliest pm_start year for each country. Use a simple subquery within the SELECT clause to find the earliest pm_start for each country.
+Write a query to list all countries along with their continent and the earliest pm_start year for each country.
+Use a simple subquery within the SELECT clause to find the earliest pm_start for each country.
 
 Simple Subquery in WHERE
-Write a query to list all countries where the president's name is the same as the prime minister's name. Use a simple subquery within the WHERE clause to compare the names.
+Write a query to list all countries where the president's name is the same as the prime minister's name.
+Use a simple subquery within the WHERE clause to compare the names.
 
 Correlated Subquery in SELECT
-Write a query to list all countries along with their continent and the most recent pm_start year for each country. Use a correlated subquery within the SELECT clause to find the most recent pm_start for each country.
+Write a query to list all countries along with their continent and the most recent pm_start year for each country.
+Use a correlated subquery within the SELECT clause to find the most recent pm_start for each country.
 
 Correlated Subquery in WHERE
-Write a query to list all countries that have more than one prime minister who started their term after 2000. Use a correlated subquery within the WHERE clause to filter countries based on the count of prime ministers.
+Write a query to list all countries that have more than one prime minister who started their term after 2000. 
+Use a correlated subquery within the WHERE clause to filter countries based on the count of prime ministers.
 
 Nested Subquery in SELECT
-Write a query to list all countries along with the name of the prime minister who started the earliest term in the continent that has the most countries. Use nested subqueries in the SELECT clause to find the prime minister's name.
+Write a query to list all countries along with the name of the prime minister who started the earliest term in the continent that has the most countries. 
+Use nested subqueries in the SELECT clause to find the prime minister's name.
 
 Nested Subquery in WHERE
-Write a query to list all countries where the president's name matches the prime minister's name in the continent that has the highest average independence year. Use nested subqueries in the WHERE clause to filter the countries.
+Write a query to list all countries where the president's name matches the prime minister's name in the continent that has the highest average independence year. 
+Use nested subqueries in the WHERE clause to filter the countries.
