@@ -1,0 +1,29 @@
+Basic CASE WHEN in SELECT
+Write a query to list all countries along with a column that indicates whether the country gained independence before or after 1950. Use CASE WHEN in the SELECT clause to label countries as 'Before 1950' or 'After 1950' based on their indep_year.
+
+CASE WHEN in WHERE Clause
+Write a query to list all countries that either have a president or a prime minister whose name starts with 'A'. Use CASE WHEN in the WHERE clause to filter results based on the presence of a president or prime minister starting with 'A'.
+
+CASE WHEN with Aggregation
+Write a query to list each continent and the number of countries it contains. Additionally, categorize each continent as 'Small' if it has fewer than 10 countries, 'Medium' if it has between 10 and 20 countries, and 'Large' if it has more than 20 countries. Use CASE WHEN in the SELECT clause for categorization.
+
+CASE WHEN with Arithmetic Conditions
+Write a query to list all countries where the indep_year is either before 1800 or after 1950. Use CASE WHEN in the WHERE clause to specify these conditions.
+
+Conditional Display in SELECT with CASE WHEN
+Write a query to list all prime ministers along with a column that indicates if they started their term before or after the year 2000. Use CASE WHEN in the SELECT clause to label them as 'Before 2000' or 'After 2000' based on the pm_start year.
+
+CASE WHEN with String Matching
+Write a query to list all countries where either the president or prime minister's name contains the letter 'S' and the country gained independence after 1950. Use CASE WHEN in the WHERE clause to filter results.
+
+Nested Conditions in SELECT with CASE WHEN
+Write a query to list all countries along with a classification of their indep_year as 'Ancient' if before 1800, 'Modern' if between 1800 and 1950, or 'Contemporary' if after 1950. Use CASE WHEN in the SELECT clause for this classification.
+
+Multiple Conditions in WHERE using CASE WHEN
+Write a query to list all countries where the prime minister started their term after 1990 and either the country has a monarch or the prime minister's name contains 'E'. Use CASE WHEN in the WHERE clause to filter the results based on these conditions.
+
+Multiple Columns in SELECT with CASE WHEN
+Write a query to list all countries along with two additional columns: one that indicates whether they have a president ('Yes' or 'No') and another that indicates whether they have a prime minister ('Yes' or 'No'). Use CASE WHEN in the SELECT clause for both columns.
+
+Complex Filtering in WHERE with CASE WHEN
+Write a query to list all countries where either the number of prime ministers is greater than the number of presidents, or the country has a monarch and the president's name starts with 'M'. Use CASE WHEN in the WHERE clause to filter results based on these conditions.
