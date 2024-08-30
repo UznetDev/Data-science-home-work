@@ -1,0 +1,19 @@
+CASE WHEN and GROUP BY Write a query to list each continent and the number of countries it contains. Additionally, categorize each continent as 'Small' if it has fewer than 10 countries, 'Medium' if it has between 10 and 20 countries, and 'Large' if it has more than 20 countries. Use CASE WHEN in the SELECT clause and GROUP BY the continent.
+
+Window Functions: ROW_NUMBER() and ORDER BY Write a query to list all countries along with their prime ministers and assign a unique row number to each prime minister within each country, ordered by the start year (pm_start). Use the ROW_NUMBER() window function and ORDER BY in your query.
+
+Simple Subquery with WHERE Write a query to list all countries where the president's name is the same as the prime minister's name. Use a simple subquery within the WHERE clause to compare the names.
+
+Correlated Subquery with SELECT Write a query to list all countries along with their continent and the most recent pm_start year for each country. Use a correlated subquery within the SELECT clause to find the most recent pm_start for each country.
+
+INNER JOIN and CASE WHEN Write a query to list all countries along with their president's name and indicate whether the country has a prime minister ('Yes' or 'No'). Use an INNER JOIN between states and presidents, and a CASE WHEN clause to check for the presence of a prime minister.
+
+LEFT JOIN with Aggregates Write a query to list all countries along with the total number of prime ministers each country has had. Include all countries even if they have never had a prime minister by using a LEFT JOIN between states and prime_ministers, and aggregate the results.
+
+GROUP BY with HAVING Write a query to list all continents and the total number of countries in each, but only include continents that have more than 5 countries. Use GROUP BY to group by continent and HAVING to filter the results.
+
+Window Functions: RANK() with ORDER BY Write a query to list all countries along with their continent and the rank of their prime minister based on the start year (pm_start), ordered from the earliest to the latest. Use the RANK() window function to rank the prime ministers within each continent and ORDER BY to sort the results.
+
+Simple Subquery in SELECT Write a query to list all countries along with their continent and the earliest pm_start year for each country. Use a simple subquery within the SELECT clause to find the earliest pm_start for each country.
+
+Nested Subquery with WHERE Write a query to list all countries where the president's name matches the prime minister's name in the continent that has the highest average independence year. Use nested subqueries in the WHERE clause to filter the countries.
