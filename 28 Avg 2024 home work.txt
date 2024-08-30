@@ -1,0 +1,11 @@
+Ranking: RANK() Write a query to list all countries along with their continent and the rank of their prime minister based on the start year (pm_start), ordered from the earliest to the latest. Use the RANK() window function to rank the prime ministers within each continent.
+
+Ranking: DENSE_RANK() Write a query to list all countries along with the rank of their president based on the number of prime ministers the country has had. Use the DENSE_RANK() window function to assign ranks, with ties receiving the same rank.
+
+Ranking: ROW_NUMBER() Write a query to list all countries along with their prime ministers and assign a unique row number to each prime minister within each country, ordered by the start year (pm_start). Use the ROW_NUMBER() window function for this purpose.
+
+Aggregates: SUM() OVER Write a query to list all countries along with their continent and the total number of prime ministers each continent has had. Use the SUM() window function to calculate the total number of prime ministers across each continent.
+
+Aggregates: AVG() OVER Write a query to list all countries along with their prime ministers and the average start year of prime ministers within the same continent. Use the AVG() window function to compute the average pm_start year for each continent.
+
+Aggregates: COUNT() OVER Write a query to list all countries along with the total count of presidents in each continent, showing this count next to each country. Use the COUNT() window function to calculate the total number of presidents within each continent.
