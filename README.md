@@ -15,6 +15,7 @@ Ushbu repository quyidagi maqsadlarga ega:
 
 Ushbu loyihada quyidagi texnologiyalar va kutubxonalardan foydalanilgan:
 - Python
+- SQL
 - Pandas
 - NumPy
 - Matplotlib
